@@ -1,0 +1,456 @@
+﻿ID,Classificacao_PSI1,Classificacao_PSI2,Classificacao_PSI3
+102600,Negativo Fraco,Positivo Fraco,Neutro
+102895,Negativo Fraco,Negativo Forte,Negativo Forte
+103085,Negativo Forte,Negativo Forte,Negativo Forte
+103092,Positivo Fraco,Positivo Fraco,Positivo Fraco
+103200,Positivo Fraco,Negativo Fraco,Negativo Forte
+103241,Neutro,Negativo Fraco,Positivo Fraco
+103440,Positivo Fraco,Negativo Forte,Negativo Fraco
+103530,Positivo Forte,Positivo Fraco,Neutro
+103546,Positivo Forte,Positivo Forte,Positivo Fraco
+103629,Positivo Fraco,Negativo Forte,Negativo Fraco
+103823,Negativo Fraco,Negativo Fraco,Neutro
+103875,Positivo Fraco,Negativo Fraco,Neutro
+104002,Neutro,Neutro,Neutro
+104229,Positivo Fraco,Negativo Fraco,Neutro
+104323,Positivo Forte,Positivo Fraco,Positivo Fraco
+104337,Positivo Forte,Negativo Fraco,Neutro
+104395,Positivo Forte,Positivo Fraco,Neutro
+104751,Negativo Forte,Negativo Forte,Negativo Forte
+104770,Positivo Forte,Positivo Forte,Positivo Forte
+104958,Negativo Fraco,Negativo Fraco,Negativo Forte
+105218,Positivo Fraco,Negativo Fraco,Neutro
+105373,Positivo Forte,Positivo Forte,Neutro
+105757,Neutro,Neutro,Neutro
+105868,Negativo Fraco,Negativo Fraco,Negativo Fraco
+106127,Positivo Forte,Positivo Forte,Positivo Forte
+106368,Negativo Forte,Negativo Forte,Negativo Forte
+106399,Negativo Fraco,Positivo Forte,Positivo Fraco
+107050,Positivo Forte,Positivo Fraco,Positivo Forte
+107051,Positivo Fraco,Positivo Fraco,Negativo Fraco
+107092,Negativo Forte,Negativo Forte,Negativo Forte
+107249,Positivo Fraco,Positivo Fraco,Positivo Fraco
+107654,Positivo Fraco,Positivo Fraco,Neutro
+107710,Positivo Fraco,Positivo Forte,Positivo Fraco
+107765,Positivo Fraco,Positivo Fraco,Neutro
+107823,Negativo Forte,Negativo Fraco,Negativo Fraco
+108216,Positivo Fraco,Positivo Fraco,Neutro
+108233,Positivo Fraco,Neutro,Neutro
+108260,Positivo Fraco,Positivo Fraco,Neutro
+108269,Positivo Fraco,Positivo Fraco,Negativo Forte
+108452,Positivo Fraco,Negativo Fraco,Negativo Forte
+108544,Neutro,Neutro,Positivo Forte
+108609,Positivo Fraco,Negativo Fraco,Negativo Fraco
+108628,Positivo Fraco,Positivo Fraco,Positivo Forte
+108644,Negativo Fraco,Negativo Fraco,Neutro
+108743,Positivo Forte,Positivo Fraco,Negativo Fraco
+109252,Neutro,Negativo Fraco,Neutro
+109365,Positivo Fraco,Negativo Fraco,Neutro
+109441,Positivo Fraco,Neutro,Neutro
+109590,Negativo Fraco,Negativo Fraco,Neutro
+109665,Positivo Fraco,Positivo Fraco,Neutro
+109675,Positivo Fraco,Positivo Fraco,Positivo Fraco
+109876,Positivo Forte,Negativo Fraco,Neutro
+109909,Negativo Fraco,Negativo Fraco,Negativo Fraco
+110077,Negativo Fraco,Negativo Fraco,Negativo Fraco
+110409,Neutro,Neutro,Negativo Fraco
+110666,Positivo Forte,Positivo Fraco,Neutro
+110709,Positivo Fraco,Positivo Fraco,Neutro
+111087,Neutro,Negativo Fraco,Neutro
+111131,Positivo Fraco,Positivo Fraco,Neutro
+111248,Positivo Fraco,Positivo Fraco,Neutro
+111856,Positivo Fraco,Neutro,Neutro
+112071,Positivo Fraco,Neutro,Neutro
+112279,Positivo Fraco,Positivo Fraco,Neutro
+112599,Positivo Fraco,Negativo Fraco,Negativo Fraco
+112701,Positivo Fraco,Positivo Fraco,Neutro
+112731,Positivo Fraco,Positivo Fraco,Neutro
+112849,Positivo Fraco,Positivo Fraco,Negativo Fraco
+113313,Positivo Fraco,Positivo Fraco,Neutro
+113356,Negativo Forte,Negativo Forte,Negativo Forte
+113410,Positivo Fraco,Negativo Fraco,Negativo Fraco
+113751,Positivo Forte,Positivo Fraco,Neutro
+113983,Neutro,Negativo Fraco,Neutro
+114184,Positivo Forte,Positivo Forte,Neutro
+114444,Positivo Fraco,Positivo Fraco,Neutro
+114466,Positivo Fraco,Positivo Fraco,Positivo Fraco
+114815,Positivo Fraco,Negativo Fraco,Neutro
+114973,Positivo Fraco,Positivo Fraco,Neutro
+115288,Positivo Forte,Positivo Forte,Positivo Fraco
+115783,Positivo Forte,Negativo Forte,Negativo Forte
+115911,Negativo Fraco,Negativo Forte,Negativo Fraco
+116167,Positivo Fraco,Positivo Fraco,Neutro
+116582,Positivo Forte,Positivo Fraco,Neutro
+116971,Positivo Fraco,Positivo Fraco,Neutro
+117089,Positivo Fraco,Negativo Fraco,Neutro
+117401,Positivo Fraco,Positivo Fraco,Neutro
+117637,Negativo Fraco,Negativo Fraco,Negativo Fraco
+117742,Positivo Fraco,Neutro,Neutro
+117955,Positivo Forte,Positivo Fraco,Neutro
+118247,Positivo Fraco,Positivo Fraco,Positivo Forte
+118277,Positivo Forte,Neutro,Neutro
+118339,Negativo Fraco,Negativo Fraco,Neutro
+118533,Positivo Fraco,Negativo Fraco,Neutro
+118550,Positivo Forte,Positivo Fraco,Positivo Fraco
+118650,Positivo Fraco,Positivo Fraco,Positivo Fraco
+118896,Positivo Fraco,Negativo Fraco,Neutro
+119137,Neutro,Negativo Fraco,Neutro
+119369,Negativo Fraco,Negativo Fraco,Neutro
+119409,Positivo Forte,Positivo Fraco,Neutro
+119512,Neutro,Negativo Forte,Negativo Fraco
+123647,Positivo Fraco,Positivo Fraco,Neutro
+123728,Negativo Fraco,Negativo Fraco,Neutro
+123790,Positivo Fraco,Negativo Fraco,Positivo Fraco
+123968,Positivo Forte,Positivo Fraco,Positivo Forte
+124184,Positivo Forte,Positivo Fraco,Positivo Fraco
+124194,Positivo Fraco,Positivo Fraco,Positivo Fraco
+124365,Positivo Fraco,Negativo Fraco,Negativo Fraco
+124387,Negativo Fraco,Negativo Fraco,Neutro
+124464,Positivo Forte,Positivo Fraco,Positivo Fraco
+124489,Neutro,Neutro,Neutro
+124495,Positivo Forte,Positivo Forte,Neutro
+124828,Negativo Fraco,Negativo Fraco,Negativo Fraco
+125041,Positivo Forte,Positivo Forte,Positivo Fraco
+125061,Positivo Fraco,Negativo Fraco,Neutro
+125062,Positivo Fraco,Positivo Fraco,Neutro
+125126,Positivo Forte,Positivo Fraco,Neutro
+125341,Positivo Fraco,Positivo Fraco,Neutro
+125447,Negativo Fraco,Negativo Fraco,Neutro
+125503,Positivo Forte,Positivo Fraco,Neutro
+125522,Positivo Fraco,Positivo Fraco,Positivo Fraco
+125635,Positivo Forte,Positivo Fraco,Neutro
+125757,Neutro,Positivo Fraco,Neutro
+126174,Positivo Forte,Positivo Fraco,Neutro
+126353,Neutro,Positivo Fraco,Positivo Fraco
+126467,Negativo Fraco,Positivo Fraco,Negativo Fraco
+127125,Negativo Fraco,Negativo Fraco,Neutro
+127477,Neutro,Positivo Fraco,Neutro
+127524,Neutro,Neutro,Neutro
+127870,Positivo Fraco,Negativo Fraco,Neutro
+128199,Positivo Fraco,Positivo Forte,Neutro
+128586,Positivo Fraco,Positivo Fraco,Neutro
+128643,Positivo Fraco,Positivo Fraco,Neutro
+128983,Neutro,Positivo Fraco,Neutro
+129033,Negativo Fraco,Negativo Fraco,Neutro
+129080,Neutro,Neutro,Neutro
+129311,Neutro,Neutro,Neutro
+129327,Positivo Fraco,Positivo Forte,Positivo Forte
+129827,Positivo Fraco,Negativo Fraco,Neutro
+129944,Neutro,Neutro,Neutro
+129995,Negativo Fraco,Negativo Fraco,Neutro
+130079,Positivo Fraco,Positivo Fraco,Neutro
+130597,Positivo Fraco,Positivo Forte,Neutro
+130628,Negativo Fraco,Neutro,Neutro
+130653,Neutro,Negativo Fraco,Neutro
+130787,Neutro,Positivo Fraco,Neutro
+131047,Positivo Fraco,Positivo Fraco,Neutro
+131213,Neutro,Negativo Fraco,Neutro
+131364,Negativo Fraco,Negativo Fraco,Neutro
+131734,Negativo Fraco,Negativo Fraco,Neutro
+131788,Negativo Fraco,Positivo Fraco,Neutro
+132453,Positivo Fraco,Positivo Fraco,Neutro
+133208,Neutro,Neutro,Neutro
+133291,Neutro,Positivo Fraco,Neutro
+133329,Positivo Fraco,Neutro,Neutro
+133430,Positivo Fraco,Positivo Fraco,Neutro
+133738,Neutro,Neutro,Positivo Fraco
+133948,Positivo Forte,Positivo Fraco,Neutro
+133959,Negativo Fraco,Negativo Fraco,Neutro
+134009,Neutro,Negativo Fraco,Neutro
+134110,Positivo Forte,Positivo Forte,Positivo Forte
+134111,Positivo Fraco,Positivo Fraco,Neutro
+134158,Positivo Fraco,Positivo Fraco,Positivo Fraco
+134398,Positivo Forte,Positivo Forte,Neutro
+134432,Positivo Fraco,Neutro,Neutro
+134444,Negativo Fraco,Negativo Fraco,Neutro
+134510,Positivo Forte,Positivo Forte,Positivo Forte
+135397,Positivo Forte,Positivo Forte,Positivo Fraco
+135641,Positivo Fraco,Positivo Fraco,Positivo Fraco
+135814,Positivo Forte,Positivo Fraco,Neutro
+138363,Neutro,Neutro,Neutro
+138474,Positivo Fraco,Positivo Fraco,Neutro
+138553,Positivo Fraco,Neutro,Neutro
+139282,Neutro,Positivo Fraco,Positivo Fraco
+145991,Negativo Fraco,Negativo Fraco,Neutro
+146055,Positivo Forte,Positivo Forte,Neutro
+146065,Neutro,Neutro,Neutro
+154031,Neutro,Neutro,Neutro
+154072,Positivo Fraco,Positivo Fraco,Positivo Fraco
+154089,Positivo Forte,Positivo Fraco,Positivo Fraco
+154156,Negativo Fraco,Negativo Fraco,Neutro
+154234,Positivo Forte,Positivo Fraco,Positivo Fraco
+154277,Positivo Fraco,Positivo Forte,Positivo Fraco
+154435,Neutro,Positivo Fraco,Neutro
+154683,Neutro,Negativo Fraco,Neutro
+154709,Positivo Fraco,Positivo Fraco,Neutro
+154711,Positivo Forte,Negativo Fraco,Neutro
+154795,Positivo Forte,Negativo Fraco,Neutro
+154818,Neutro,Positivo Fraco,Neutro
+154856,Neutro,Positivo Fraco,Neutro
+154888,Positivo Fraco,Positivo Forte,Neutro
+154952,Negativo Fraco,Negativo Forte,Negativo Fraco
+155065,Positivo Fraco,Negativo Forte,Negativo Fraco
+155199,Positivo Forte,Positivo Fraco,Positivo Fraco
+155234,Neutro,Neutro,Neutro
+155260,Neutro,Neutro,Neutro
+155296,Positivo Forte,Neutro,Neutro
+155315,Neutro,Neutro,Neutro
+155417,Positivo Forte,Positivo Forte,Positivo Fraco
+155420,Positivo Forte,Positivo Fraco,Neutro
+155443,Positivo Forte,Negativo Fraco,Neutro
+155476,Positivo Fraco,Negativo Fraco,Negativo Fraco
+155526,Positivo Fraco,Neutro,Neutro
+155603,Positivo Fraco,Negativo Fraco,Neutro
+155801,Negativo Fraco,Negativo Fraco,Neutro
+155950,Neutro,Positivo Fraco,Neutro
+156008,Positivo Fraco,Positivo Fraco,Neutro
+156132,Positivo Fraco,Positivo Fraco,Neutro
+156185,Positivo Fraco,Positivo Fraco,Neutro
+156331,Positivo Fraco,Positivo Fraco,Positivo Fraco
+156399,Positivo Forte,Positivo Fraco,Positivo Fraco
+156496,Positivo Fraco,Positivo Fraco,Neutro
+157276,Positivo Forte,Positivo Fraco,Positivo Fraco
+157299,Positivo Forte,Positivo Fraco,Neutro
+157393,Negativo Fraco,Negativo Fraco,Neutro
+157459,Positivo Forte,Positivo Fraco,Neutro
+157622,Positivo Forte,Negativo Forte,Negativo Forte
+157638,Positivo Forte,Positivo Fraco,Positivo Forte
+157859,Positivo Forte,Positivo Fraco,Neutro
+157882,Positivo Fraco,Positivo Fraco,Positivo Fraco
+158084,Positivo Fraco,Positivo Fraco,Positivo Fraco
+158183,Positivo Forte,Positivo Fraco,Neutro
+158222,Neutro,Neutro,Neutro
+158315,Positivo Fraco,Positivo Forte,Neutro
+158388,Positivo Fraco,Negativo Fraco,Neutro
+158456,Positivo Forte,Positivo Forte,Neutro
+158470,Negativo Forte,Negativo Fraco,Negativo Forte
+158539,Neutro,Negativo Fraco,Neutro
+158623,Positivo Forte,Positivo Forte,Positivo Fraco
+158667,Neutro,Neutro,Neutro
+158699,Positivo Fraco,Negativo Fraco,Neutro
+158737,Neutro,Negativo Fraco,Neutro
+158787,Positivo Forte,Negativo Fraco,Positivo Fraco
+158869,Negativo Forte,Negativo Fraco,Neutro
+158873,Positivo Forte,Positivo Forte,Positivo Forte
+158943,Neutro,Negativo Fraco,Neutro
+158953,Negativo Forte,Negativo Fraco,Neutro
+159009,Positivo Forte,Positivo Fraco,Neutro
+159183,Neutro,Positivo Fraco,Neutro
+159216,Positivo Fraco,Positivo Fraco,Positivo Fraco
+159280,Negativo Forte,Negativo Forte,Negativo Fraco
+159342,Neutro,Neutro,Negativo Fraco
+159405,Positivo Forte,Negativo Fraco,Neutro
+159433,Positivo Forte,Positivo Fraco,Neutro
+159722,Positivo Fraco,Negativo Fraco,Neutro
+159774,Neutro,Positivo Fraco,Neutro
+159913,Positivo Forte,Positivo Fraco,Positivo Fraco
+163697,Neutro,Negativo Fraco,Neutro
+163719,Neutro,Neutro,Neutro
+164171,Neutro,Positivo Fraco,Positivo Fraco
+164494,Positivo Fraco,Positivo Fraco,Neutro
+165188,Neutro,Negativo Fraco,Neutro
+165219,Positivo Fraco,Negativo Fraco,Neutro
+165339,Positivo Fraco,Positivo Forte,Positivo Fraco
+165491,Positivo Fraco,Positivo Fraco,Neutro
+165927,Neutro,Negativo Fraco,Neutro
+166123,Positivo Fraco,Positivo Fraco,Neutro
+166369,Neutro,Neutro,Neutro
+166376,Neutro,Positivo Fraco,Neutro
+166503,Neutro,Positivo Forte,Positivo Forte
+166819,Positivo Forte,Positivo Fraco,Positivo Fraco
+167118,Neutro,Positivo Forte,Neutro
+167138,Positivo Fraco,Positivo Fraco,Neutro
+167174,Neutro,Positivo Fraco,Neutro
+167282,Negativo Fraco,Negativo Fraco,Neutro
+167867,Positivo Forte,Positivo Fraco,Neutro
+167872,Positivo Fraco,Positivo Forte,Neutro
+168149,Positivo Fraco,Neutro,Neutro
+168267,Positivo Fraco,Positivo Fraco,Neutro
+168290,Positivo Fraco,Positivo Fraco,Positivo Fraco
+168389,Positivo Fraco,Positivo Fraco,Positivo Fraco
+168458,Neutro,Positivo Fraco,Neutro
+168581,Negativo Fraco,Negativo Fraco,Neutro
+168639,Neutro,Neutro,Neutro
+168694,Neutro,Positivo Fraco,Neutro
+168990,Negativo Fraco,Negativo Fraco,Negativo Forte
+169648,Negativo Fraco,Negativo Fraco,Neutro
+169650,Neutro,Neutro,Neutro
+169950,Neutro,Positivo Fraco,Neutro
+170427,Positivo Fraco,Positivo Fraco,Neutro
+170757,Positivo Forte,Positivo Forte,Neutro
+170776,Negativo Fraco,Negativo Fraco,Negativo Fraco
+171269,Neutro,Positivo Fraco,Neutro
+171619,Negativo Forte,Negativo Forte,Negativo Forte
+171630,Negativo Fraco,Positivo Fraco,Neutro
+171993,Negativo Fraco,Negativo Fraco,Neutro
+172307,Negativo Fraco,Negativo Fraco,Neutro
+172378,Neutro,Negativo Fraco,Neutro
+172442,Negativo Fraco,Negativo Fraco,Neutro
+172647,Positivo Fraco,Positivo Fraco,Neutro
+172949,Negativo Fraco,Negativo Fraco,Neutro
+172976,Positivo Fraco,Negativo Fraco,Neutro
+173040,Negativo Fraco,Positivo Fraco,Neutro
+173073,Negativo Fraco,Positivo Fraco,Neutro
+173337,Negativo Forte,Negativo Fraco,Neutro
+173387,Negativo Forte,Negativo Fraco,Negativo Fraco
+173536,Negativo Fraco,Negativo Fraco,Negativo Fraco
+173553,Positivo Fraco,Positivo Fraco,Neutro
+173583,Neutro,Positivo Fraco,Neutro
+173585,Neutro,Negativo Fraco,Neutro
+173656,Negativo Fraco,Negativo Fraco,Neutro
+173995,Positivo Fraco,Positivo Forte,Neutro
+174112,Positivo Fraco,Positivo Forte,Positivo Fraco
+174221,Neutro,Positivo Fraco,Neutro
+174249,Positivo Fraco,Negativo Fraco,Neutro
+174298,Negativo Fraco,Negativo Fraco,Neutro
+174302,Negativo Forte,Negativo Forte,Negativo Fraco
+174374,Neutro,Negativo Fraco,Neutro
+174871,Negativo Forte,Negativo Fraco,Negativo Fraco
+175081,Negativo Fraco,Negativo Fraco,Neutro
+175124,Positivo Forte,Positivo Forte,Positivo Fraco
+175143,Positivo Fraco,Positivo Fraco,Neutro
+175384,Negativo Fraco,Negativo Fraco,Neutro
+175658,Positivo Forte,Positivo Fraco,Neutro
+175985,Neutro,Negativo Fraco,Neutro
+176014,Neutro,Positivo Fraco,Neutro
+176280,Neutro,Positivo Fraco,Neutro
+176769,Neutro,Negativo Fraco,Negativo Fraco
+176856,Neutro,Positivo Fraco,Neutro
+176909,Negativo Fraco,Negativo Fraco,Neutro
+177086,Positivo Forte,Negativo Fraco,Neutro
+177122,Neutro,Positivo Fraco,Neutro
+177268,Neutro,Neutro,Neutro
+177419,Positivo Forte,Positivo Forte,Positivo Forte
+177467,Neutro,Positivo Forte,Positivo Fraco
+177475,Positivo Forte,Positivo Fraco,Positivo Fraco
+177586,Positivo Forte,Negativo Fraco,Neutro
+177650,Positivo Fraco,Positivo Fraco,Neutro
+177831,Positivo Fraco,Positivo Forte,Positivo Fraco
+177839,Positivo Forte,Positivo Fraco,Neutro
+177971,Positivo Fraco,Negativo Fraco,Neutro
+177985,Negativo Fraco,Negativo Forte,Negativo Forte
+178128,Positivo Fraco,Negativo Fraco,Negativo Fraco
+178213,Positivo Fraco,Positivo Fraco,Positivo Fraco
+178275,Positivo Forte,Positivo Fraco,Neutro
+178441,Negativo Fraco,Negativo Fraco,Neutro
+178741,Negativo Fraco,Positivo Forte,Positivo Forte
+178755,Negativo Fraco,Neutro,Neutro
+178770,Positivo Forte,Negativo Fraco,Neutro
+178861,Negativo Fraco,Negativo Fraco,Neutro
+179120,Neutro,Positivo Fraco,Neutro
+179137,Neutro,Positivo Fraco,Neutro
+179212,Positivo Forte,Positivo Fraco,Neutro
+179410,Positivo Forte,Positivo Fraco,Neutro
+179689,Positivo Fraco,Positivo Fraco,Neutro
+179701,Neutro,Negativo Fraco,Neutro
+179748,Negativo Fraco,Negativo Forte,Negativo Forte
+179886,Negativo Fraco,Positivo Fraco,Positivo Fraco
+179917,Negativo Fraco,Negativo Fraco,Negativo Fraco
+179938,Negativo Fraco,Negativo Fraco,Negativo Fraco
+179975,Negativo Fraco,Negativo Fraco,Neutro
+180006,Positivo Forte,Negativo Fraco,Neutro
+180044,Neutro,Neutro,Neutro
+180055,Negativo Fraco,Neutro,Neutro
+180099,Positivo Fraco,Positivo Fraco,Positivo Forte
+180335,Negativo Fraco,Negativo Fraco,Neutro
+180340,Positivo Forte,Positivo Fraco,Neutro
+180691,Positivo Fraco,Negativo Fraco,Neutro
+180769,Negativo Fraco,Positivo Fraco,Neutro
+181008,Positivo Fraco,Positivo Fraco,Neutro
+181138,Positivo Fraco,Neutro,Neutro
+181225,Negativo Fraco,Negativo Fraco,Neutro
+181322,Positivo Forte,Positivo Forte,Neutro
+181507,Negativo Forte,Negativo Forte,Negativo Fraco
+181604,Negativo Forte,Negativo Forte,Negativo Fraco
+181647,Positivo Fraco,Negativo Fraco,Neutro
+181800,Positivo Forte,Negativo Fraco,Neutro
+181910,Positivo Forte,Positivo Fraco,Positivo Fraco
+181991,Positivo Fraco,Positivo Forte,Neutro
+182023,Neutro,Neutro,Neutro
+182038,Neutro,Negativo Fraco,Neutro
+182049,Positivo Forte,Positivo Fraco,Neutro
+182122,Negativo Forte,Negativo Forte,Neutro
+182201,Negativo Fraco,Negativo Fraco,Neutro
+182296,Positivo Fraco,Negativo Fraco,Neutro
+182614,Positivo Forte,Positivo Fraco,Positivo Fraco
+182811,Positivo Fraco,Positivo Fraco,Neutro
+182825,Positivo Forte,Negativo Fraco,Positivo Fraco
+183005,Positivo Fraco,Positivo Fraco,Positivo Forte
+183098,Positivo Forte,Positivo Forte,Neutro
+183282,Negativo Fraco,Negativo Forte,Negativo Forte
+183441,Positivo Forte,Positivo Forte,Positivo Forte
+183699,Positivo Forte,Positivo Fraco,Neutro
+184085,Positivo Fraco,Positivo Fraco,Neutro
+184156,Neutro,Positivo Fraco,Neutro
+184250,Neutro,Neutro,Neutro
+184262,Negativo Forte,Negativo Forte,Negativo Forte
+184860,Positivo Fraco,Positivo Fraco,Neutro
+184924,Positivo Forte,Positivo Fraco,Neutro
+185204,Positivo Fraco,Positivo Fraco,Neutro
+185239,Neutro,Neutro,Neutro
+185373,Negativo Fraco,Negativo Fraco,Negativo Fraco
+185448,Negativo Fraco,Negativo Fraco,Neutro
+185789,Negativo Forte,Negativo Forte,Neutro
+185904,Positivo Fraco,Positivo Fraco,Neutro
+186458,Negativo Fraco,Negativo Fraco,Neutro
+186683,Neutro,Positivo Fraco,Neutro
+186751,Neutro,Positivo Fraco,Neutro
+186768,Positivo Fraco,Negativo Fraco,Neutro
+188134,Positivo Forte,Positivo Fraco,Neutro
+188158,Negativo Fraco,Negativo Fraco,Neutro
+188298,Neutro,Neutro,Neutro
+188405,Negativo Fraco,Negativo Fraco,Negativo Forte
+189178,Negativo Fraco,Negativo Fraco,Neutro
+189208,Positivo Fraco,Negativo Fraco,Neutro
+189376,Positivo Forte,Neutro,Neutro
+189516,Positivo Fraco,Positivo Forte,Neutro
+189649,Positivo Fraco,Neutro,Neutro
+189716,Positivo Forte,Positivo Fraco,Positivo Fraco
+189757,Neutro,Neutro,Neutro
+189870,Negativo Fraco,Negativo Fraco,Neutro
+189886,Negativo Forte,Negativo Forte,Neutro
+190038,Negativo Fraco,Negativo Fraco,Neutro
+190157,Neutro,Negativo Forte,Neutro
+190253,Negativo Fraco,Negativo Fraco,Neutro
+190430,Negativo Fraco,Neutro,Positivo Fraco
+190594,Positivo Fraco,Positivo Fraco,Neutro
+190686,Neutro,Neutro,Neutro
+190818,Neutro,Neutro,Neutro
+190846,Positivo Fraco,Positivo Fraco,Neutro
+191019,Positivo Forte,Negativo Fraco,Neutro
+191159,Positivo Fraco,Positivo Fraco,Neutro
+191600,Positivo Forte,Positivo Fraco,Negativo Fraco
+191731,Positivo Fraco,Negativo Fraco,Negativo Fraco
+191749,Neutro,Positivo Fraco,Positivo Fraco
+191779,Neutro,Negativo Fraco,Negativo Fraco
+191826,Negativo Fraco,Negativo Fraco,Neutro
+191850,Positivo Fraco,Negativo Fraco,Negativo Fraco
+191859,Neutro,Neutro,Negativo Fraco
+191966,Neutro,Positivo Fraco,Neutro
+192003,Positivo Fraco,Positivo Fraco,Neutro
+192073,Negativo Fraco,Negativo Fraco,Neutro
+192286,Positivo Fraco,Negativo Forte,Negativo Forte
+192527,Positivo Fraco,Neutro,Neutro
+192604,Positivo Forte,Positivo Fraco,Positivo Fraco
+192775,Neutro,Neutro,Neutro
+192929,Positivo Fraco,Neutro,Neutro
+193013,Neutro,Positivo Fraco,Neutro
+193066,Negativo Forte,Negativo Forte,Negativo Forte
+193201,Neutro,Negativo Fraco,Neutro
+193354,Positivo Fraco,Negativo Fraco,Neutro
+193444,Positivo Fraco,Negativo Fraco,Negativo Forte
+193467,Positivo Forte,Neutro,Positivo Fraco
+193520,Neutro,Neutro,Neutro
+193524,Positivo Forte,Positivo Fraco,Negativo Fraco
+193748,Negativo Fraco,Negativo Fraco,Positivo Fraco
+193852,Neutro,Positivo Fraco,Negativo Fraco
+193854,Positivo Forte,Positivo Forte,Positivo Forte
+194028,Positivo Fraco,Positivo Fraco,Neutro
+194061,Negativo Fraco,Negativo Forte,Negativo Forte
+194067,Neutro,Positivo Fraco,Neutro
+194129,Negativo Fraco,Negativo Forte,Negativo Forte
+194153,Negativo Fraco,Neutro,Neutro
+194416,Negativo Fraco,Negativo Fraco,Neutro
+194647,Negativo Forte,Negativo Fraco,Positivo Fraco
+194664,Neutro,Positivo Fraco,Negativo Fraco
+194717,Neutro,Positivo Fraco,Neutro
