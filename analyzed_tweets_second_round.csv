@@ -1,52 +1,52 @@
 ID,Classification
-102600,Neutro
-103241,Negativo Fraco
-103875,Positivo Fraco
-104229,Neutro
-104337,Negativo Fraco
-105218,Positivo Fraco
-109365,Neutro
-109876,Positivo Forte
-114815,Negativo Fraco
-117089,Neutro
-118533,Positivo Fraco
-118896,Negativo Fraco
-125061,Negativo Fraco
-127870,Negativo Fraco
-129827,Positivo Fraco
-131788,Neutro
-154711,Positivo Forte
-154795,Positivo Forte
-155443,Positivo Forte
-155603,Positivo Fraco
-158388,Neutro
-158699,Positivo Fraco
-159405,Negativo Fraco
-159722,Positivo Fraco
-165219,Positivo Fraco
-171630,Positivo Fraco
-172976,Positivo Fraco
-173040,Neutro
-173073,Negativo Fraco
-174249,Positivo Fraco
-177086,Negativo Fraco
-177586,Neutro
-177971,Positivo Fraco
-178770,Positivo Fraco
-180006,Positivo Fraco
-180691,Positivo Fraco
-180769,Neutro
-181647,Positivo Fraco
-181800,Positivo Forte
-182296,Negativo Fraco
-186768,Neutro
-189208,Positivo Fraco
-190430,Positivo Fraco
-191019,Positivo Forte
-193354,Neutro
-193852,Negativo Fraco
-194664,Negativo Fraco
-146957,Positivo Fraco
-149545,Neutro
-209598,Neutro
-225363,Negativo Fraco
+102600,Neutral
+103241,Weak Negative
+103875,Weak Positive
+104229,Neutral
+104337,Weak Negative
+105218,Weak Positive
+109365,Neutral
+109876,Strong Positive
+114815,Weak Negative
+117089,Neutral
+118533,Weak Positive
+118896,Weak Negative
+125061,Weak Negative
+127870,Weak Negative
+129827,Weak Positive
+131788,Neutral
+154711,Strong Positive
+154795,Strong Positive
+155443,Strong Positive
+155603,Weak Positive
+158388,Neutral
+158699,Weak Positive
+159405,Weak Negative
+159722,Weak Positive
+165219,Weak Positive
+171630,Weak Positive
+172976,Weak Positive
+173040,Neutral
+173073,Weak Negative
+174249,Weak Positive
+177086,Weak Negative
+177586,Neutral
+177971,Weak Positive
+178770,Weak Positive
+180006,Weak Positive
+180691,Weak Positive
+180769,Neutral
+181647,Weak Positive
+181800,Strong Positive
+182296,Weak Negative
+186768,Neutral
+189208,Weak Positive
+190430,Weak Positive
+191019,Strong Positive
+193354,Neutral
+193852,Weak Negative
+194664,Weak Negative
+146957,Weak Positive
+149545,Neutral
+209598,Neutral
+225363,Weak Negative
