@@ -1,0 +1,561 @@
+ID,Classification_PSY1,Classification_PSY2,Classification_PSY3
+102600,Weak Negative,Weak Positive,Neutral
+102895,Weak Negative,Strong Negative,Strong Negative
+103085,Strong Negative,Strong Negative,Strong Negative
+103092,Weak Positive,Weak Positive,Weak Positive
+103200,Weak Positive,Weak Negative,Strong Negative
+103241,Neutral,Weak Negative,Weak Positive
+103440,Weak Positive,Strong Negative,Weak Negative
+103530,Strong Positive,Weak Positive,Neutral
+103546,Strong Positive,Strong Positive,Weak Positive
+103629,Weak Positive,Strong Negative,Weak Negative
+103823,Weak Negative,Weak Negative,Neutral
+103875,Weak Positive,Weak Negative,Neutral
+104002,Neutral,Neutral,Neutral
+104229,Weak Positive,Weak Negative,Neutral
+104323,Strong Positive,Weak Positive,Weak Positive
+104337,Strong Positive,Weak Negative,Neutral
+104395,Strong Positive,Weak Positive,Neutral
+104751,Strong Negative,Strong Negative,Strong Negative
+104770,Strong Positive,Strong Positive,Strong Positive
+104958,Weak Negative,Weak Negative,Strong Negative
+105218,Weak Positive,Weak Negative,Neutral
+105373,Strong Positive,Strong Positive,Neutral
+105757,Neutral,Neutral,Neutral
+105868,Weak Negative,Weak Negative,Weak Negative
+106127,Strong Positive,Strong Positive,Strong Positive
+106368,Strong Negative,Strong Negative,Strong Negative
+106399,Weak Negative,Strong Positive,Weak Positive
+107050,Strong Positive,Weak Positive,Strong Positive
+107051,Weak Positive,Weak Positive,Weak Negative
+107092,Strong Negative,Strong Negative,Strong Negative
+107249,Weak Positive,Weak Positive,Weak Positive
+107654,Weak Positive,Weak Positive,Neutral
+107710,Weak Positive,Strong Positive,Weak Positive
+107765,Weak Positive,Weak Positive,Neutral
+107823,Strong Negative,Weak Negative,Weak Negative
+108216,Weak Positive,Weak Positive,Neutral
+108233,Weak Positive,Neutral,Neutral
+108260,Weak Positive,Weak Positive,Neutral
+108269,Weak Positive,Weak Positive,Strong Negative
+108452,Weak Positive,Weak Negative,Strong Negative
+108544,Neutral,Neutral,Strong Positive
+108609,Weak Positive,Weak Negative,Weak Negative
+108628,Weak Positive,Weak Positive,Strong Positive
+108644,Weak Negative,Weak Negative,Neutral
+108743,Strong Positive,Weak Positive,Weak Negative
+109252,Neutral,Weak Negative,Neutral
+109365,Weak Positive,Weak Negative,Neutral
+109441,Weak Positive,Neutral,Neutral
+109590,Weak Negative,Weak Negative,Neutral
+109665,Weak Positive,Weak Positive,Neutral
+109675,Weak Positive,Weak Positive,Weak Positive
+109876,Strong Positive,Weak Negative,Neutral
+109909,Weak Negative,Weak Negative,Weak Negative
+110077,Weak Negative,Weak Negative,Weak Negative
+110409,Neutral,Neutral,Weak Negative
+110666,Strong Positive,Weak Positive,Neutral
+110709,Weak Positive,Weak Positive,Neutral
+111087,Neutral,Weak Negative,Neutral
+111131,Weak Positive,Weak Positive,Neutral
+111248,Weak Positive,Weak Positive,Neutral
+111856,Weak Positive,Neutral,Neutral
+112071,Weak Positive,Neutral,Neutral
+112279,Weak Positive,Weak Positive,Neutral
+112599,Weak Positive,Weak Negative,Weak Negative
+112701,Weak Positive,Weak Positive,Neutral
+112731,Weak Positive,Weak Positive,Neutral
+112849,Weak Positive,Weak Positive,Weak Negative
+113313,Weak Positive,Weak Positive,Neutral
+113356,Strong Negative,Strong Negative,Strong Negative
+113410,Weak Positive,Weak Negative,Weak Negative
+113751,Strong Positive,Weak Positive,Neutral
+113983,Neutral,Weak Negative,Neutral
+114184,Strong Positive,Strong Positive,Neutral
+114444,Weak Positive,Weak Positive,Neutral
+114466,Weak Positive,Weak Positive,Weak Positive
+114815,Weak Positive,Weak Negative,Neutral
+114973,Weak Positive,Weak Positive,Neutral
+115288,Strong Positive,Strong Positive,Weak Positive
+115783,Strong Positive,Strong Negative,Strong Negative
+115911,Weak Negative,Strong Negative,Weak Negative
+116167,Weak Positive,Weak Positive,Neutral
+116582,Strong Positive,Weak Positive,Neutral
+116971,Weak Positive,Weak Positive,Neutral
+117089,Weak Positive,Weak Negative,Neutral
+117401,Weak Positive,Weak Positive,Neutral
+117637,Weak Negative,Weak Negative,Weak Negative
+117742,Weak Positive,Neutral,Neutral
+117955,Strong Positive,Weak Positive,Neutral
+118247,Weak Positive,Weak Positive,Strong Positive
+118277,Strong Positive,Neutral,Neutral
+118339,Weak Negative,Weak Negative,Neutral
+118533,Weak Positive,Weak Negative,Neutral
+118550,Strong Positive,Weak Positive,Weak Positive
+118650,Weak Positive,Weak Positive,Weak Positive
+118896,Weak Positive,Weak Negative,Neutral
+119137,Neutral,Weak Negative,Neutral
+119369,Weak Negative,Weak Negative,Neutral
+119409,Strong Positive,Weak Positive,Neutral
+119512,Neutral,Strong Negative,Weak Negative
+123647,Weak Positive,Weak Positive,Neutral
+123728,Weak Negative,Weak Negative,Neutral
+123790,Weak Positive,Weak Negative,Weak Positive
+123968,Strong Positive,Weak Positive,Strong Positive
+124184,Strong Positive,Weak Positive,Weak Positive
+124194,Weak Positive,Weak Positive,Weak Positive
+124365,Weak Positive,Weak Negative,Weak Negative
+124387,Weak Negative,Weak Negative,Neutral
+124464,Strong Positive,Weak Positive,Weak Positive
+124489,Neutral,Neutral,Neutral
+124495,Strong Positive,Strong Positive,Neutral
+124828,Weak Negative,Weak Negative,Weak Negative
+125041,Strong Positive,Strong Positive,Weak Positive
+125061,Weak Positive,Weak Negative,Neutral
+125062,Weak Positive,Weak Positive,Neutral
+125126,Strong Positive,Weak Positive,Neutral
+125341,Weak Positive,Weak Positive,Neutral
+125447,Weak Negative,Weak Negative,Neutral
+125503,Strong Positive,Weak Positive,Neutral
+125522,Weak Positive,Weak Positive,Weak Positive
+125635,Strong Positive,Weak Positive,Neutral
+125757,Neutral,Weak Positive,Neutral
+126174,Strong Positive,Weak Positive,Neutral
+126353,Neutral,Weak Positive,Weak Positive
+126467,Weak Negative,Weak Positive,Weak Negative
+127125,Weak Negative,Weak Negative,Neutral
+127477,Neutral,Weak Positive,Neutral
+127524,Neutral,Neutral,Neutral
+127870,Weak Positive,Weak Negative,Neutral
+128199,Weak Positive,Strong Positive,Neutral
+128586,Weak Positive,Weak Positive,Neutral
+128643,Weak Positive,Weak Positive,Neutral
+128983,Neutral,Weak Positive,Neutral
+129033,Weak Negative,Weak Negative,Neutral
+129080,Neutral,Neutral,Neutral
+129311,Neutral,Neutral,Neutral
+129327,Weak Positive,Strong Positive,Strong Positive
+129827,Weak Positive,Weak Negative,Neutral
+129944,Neutral,Neutral,Neutral
+129995,Weak Negative,Weak Negative,Neutral
+130079,Weak Positive,Weak Positive,Neutral
+130597,Weak Positive,Strong Positive,Neutral
+130628,Weak Negative,Neutral,Neutral
+130653,Neutral,Weak Negative,Neutral
+130787,Neutral,Weak Positive,Neutral
+131047,Weak Positive,Weak Positive,Neutral
+131213,Neutral,Weak Negative,Neutral
+131364,Weak Negative,Weak Negative,Neutral
+131734,Weak Negative,Weak Negative,Neutral
+131788,Weak Negative,Weak Positive,Neutral
+132453,Weak Positive,Weak Positive,Neutral
+133208,Neutral,Neutral,Neutral
+133291,Neutral,Weak Positive,Neutral
+133329,Weak Positive,Neutral,Neutral
+133430,Weak Positive,Weak Positive,Neutral
+133738,Neutral,Neutral,Weak Positive
+133948,Strong Positive,Weak Positive,Neutral
+133959,Weak Negative,Weak Negative,Neutral
+134009,Neutral,Weak Negative,Neutral
+134110,Strong Positive,Strong Positive,Strong Positive
+134111,Weak Positive,Weak Positive,Neutral
+134158,Weak Positive,Weak Positive,Weak Positive
+134398,Strong Positive,Strong Positive,Neutral
+134432,Weak Positive,Neutral,Neutral
+134444,Weak Negative,Weak Negative,Neutral
+134510,Strong Positive,Strong Positive,Strong Positive
+135397,Strong Positive,Strong Positive,Weak Positive
+135641,Weak Positive,Weak Positive,Weak Positive
+135814,Strong Positive,Weak Positive,Neutral
+138363,Neutral,Neutral,Neutral
+138474,Weak Positive,Weak Positive,Neutral
+138553,Weak Positive,Neutral,Neutral
+139282,Neutral,Weak Positive,Weak Positive
+145991,Weak Negative,Weak Negative,Neutral
+146055,Strong Positive,Strong Positive,Neutral
+146065,Neutral,Neutral,Neutral
+154031,Neutral,Neutral,Neutral
+154072,Weak Positive,Weak Positive,Weak Positive
+154089,Strong Positive,Weak Positive,Weak Positive
+154156,Weak Negative,Weak Negative,Neutral
+154234,Strong Positive,Weak Positive,Weak Positive
+154277,Weak Positive,Strong Positive,Weak Positive
+154435,Neutral,Weak Positive,Neutral
+154683,Neutral,Weak Negative,Neutral
+154709,Weak Positive,Weak Positive,Neutral
+154711,Strong Positive,Weak Negative,Neutral
+154795,Strong Positive,Weak Negative,Neutral
+154818,Neutral,Weak Positive,Neutral
+154856,Neutral,Weak Positive,Neutral
+154888,Weak Positive,Strong Positive,Neutral
+154952,Weak Negative,Strong Negative,Weak Negative
+155065,Weak Positive,Strong Negative,Weak Negative
+155199,Strong Positive,Weak Positive,Weak Positive
+155234,Neutral,Neutral,Neutral
+155260,Neutral,Neutral,Neutral
+155296,Strong Positive,Neutral,Neutral
+155315,Neutral,Neutral,Neutral
+155417,Strong Positive,Strong Positive,Weak Positive
+155420,Strong Positive,Weak Positive,Neutral
+155443,Strong Positive,Weak Negative,Neutral
+155476,Weak Positive,Weak Negative,Weak Negative
+155526,Weak Positive,Neutral,Neutral
+155603,Weak Positive,Weak Negative,Neutral
+155801,Weak Negative,Weak Negative,Neutral
+155950,Neutral,Weak Positive,Neutral
+156008,Weak Positive,Weak Positive,Neutral
+156132,Weak Positive,Weak Positive,Neutral
+156185,Weak Positive,Weak Positive,Neutral
+156331,Weak Positive,Weak Positive,Weak Positive
+156399,Strong Positive,Weak Positive,Weak Positive
+156496,Weak Positive,Weak Positive,Neutral
+157276,Strong Positive,Weak Positive,Weak Positive
+157299,Strong Positive,Weak Positive,Neutral
+157393,Weak Negative,Weak Negative,Neutral
+157459,Strong Positive,Weak Positive,Neutral
+157622,Strong Positive,Strong Negative,Strong Negative
+157638,Strong Positive,Weak Positive,Strong Positive
+157859,Strong Positive,Weak Positive,Neutral
+157882,Weak Positive,Weak Positive,Weak Positive
+158084,Weak Positive,Weak Positive,Weak Positive
+158183,Strong Positive,Weak Positive,Neutral
+158222,Neutral,Neutral,Neutral
+158315,Weak Positive,Strong Positive,Neutral
+158388,Weak Positive,Weak Negative,Neutral
+158456,Strong Positive,Strong Positive,Neutral
+158470,Strong Negative,Weak Negative,Strong Negative
+158539,Neutral,Weak Negative,Neutral
+158623,Strong Positive,Strong Positive,Weak Positive
+158667,Neutral,Neutral,Neutral
+158699,Weak Positive,Weak Negative,Neutral
+158737,Neutral,Weak Negative,Neutral
+158787,Strong Positive,Weak Negative,Weak Positive
+158869,Strong Negative,Weak Negative,Neutral
+158873,Strong Positive,Strong Positive,Strong Positive
+158943,Neutral,Weak Negative,Neutral
+158953,Strong Negative,Weak Negative,Neutral
+159009,Strong Positive,Weak Positive,Neutral
+159183,Neutral,Weak Positive,Neutral
+159216,Weak Positive,Weak Positive,Weak Positive
+159280,Strong Negative,Strong Negative,Weak Negative
+159342,Neutral,Neutral,Weak Negative
+159405,Strong Positive,Weak Negative,Neutral
+159433,Strong Positive,Weak Positive,Neutral
+159722,Weak Positive,Weak Negative,Neutral
+159774,Neutral,Weak Positive,Neutral
+159913,Strong Positive,Weak Positive,Weak Positive
+163697,Neutral,Weak Negative,Neutral
+163719,Neutral,Neutral,Neutral
+164171,Neutral,Weak Positive,Weak Positive
+164494,Weak Positive,Weak Positive,Neutral
+165188,Neutral,Weak Negative,Neutral
+165219,Weak Positive,Weak Negative,Neutral
+165339,Weak Positive,Strong Positive,Weak Positive
+165491,Weak Positive,Weak Positive,Neutral
+165927,Neutral,Weak Negative,Neutral
+166123,Weak Positive,Weak Positive,Neutral
+166369,Neutral,Neutral,Neutral
+166376,Neutral,Weak Positive,Neutral
+166503,Neutral,Strong Positive,Strong Positive
+166819,Strong Positive,Weak Positive,Weak Positive
+167118,Neutral,Strong Positive,Neutral
+167138,Weak Positive,Weak Positive,Neutral
+167174,Neutral,Weak Positive,Neutral
+167282,Weak Negative,Weak Negative,Neutral
+167867,Strong Positive,Weak Positive,Neutral
+167872,Weak Positive,Strong Positive,Neutral
+168149,Weak Positive,Neutral,Neutral
+168267,Weak Positive,Weak Positive,Neutral
+168290,Weak Positive,Weak Positive,Weak Positive
+168389,Weak Positive,Weak Positive,Weak Positive
+168458,Neutral,Weak Positive,Neutral
+168581,Weak Negative,Weak Negative,Neutral
+168639,Neutral,Neutral,Neutral
+168694,Neutral,Weak Positive,Neutral
+168990,Weak Negative,Weak Negative,Strong Negative
+169648,Weak Negative,Weak Negative,Neutral
+169650,Neutral,Neutral,Neutral
+169950,Neutral,Weak Positive,Neutral
+170427,Weak Positive,Weak Positive,Neutral
+170757,Strong Positive,Strong Positive,Neutral
+170776,Weak Negative,Weak Negative,Weak Negative
+171269,Neutral,Weak Positive,Neutral
+171619,Strong Negative,Strong Negative,Strong Negative
+171630,Weak Negative,Weak Positive,Neutral
+171993,Weak Negative,Weak Negative,Neutral
+172307,Weak Negative,Weak Negative,Neutral
+172378,Neutral,Weak Negative,Neutral
+172442,Weak Negative,Weak Negative,Neutral
+172647,Weak Positive,Weak Positive,Neutral
+172949,Weak Negative,Weak Negative,Neutral
+172976,Weak Positive,Weak Negative,Neutral
+173040,Weak Negative,Weak Positive,Neutral
+173073,Weak Negative,Weak Positive,Neutral
+173337,Strong Negative,Weak Negative,Neutral
+173387,Strong Negative,Weak Negative,Weak Negative
+173536,Weak Negative,Weak Negative,Weak Negative
+173553,Weak Positive,Weak Positive,Neutral
+173583,Neutral,Weak Positive,Neutral
+173585,Neutral,Weak Negative,Neutral
+173656,Weak Negative,Weak Negative,Neutral
+173995,Weak Positive,Strong Positive,Neutral
+174112,Weak Positive,Strong Positive,Weak Positive
+174221,Neutral,Weak Positive,Neutral
+174249,Weak Positive,Weak Negative,Neutral
+174298,Weak Negative,Weak Negative,Neutral
+174302,Strong Negative,Strong Negative,Weak Negative
+174374,Neutral,Weak Negative,Neutral
+174871,Strong Negative,Weak Negative,Weak Negative
+175081,Weak Negative,Weak Negative,Neutral
+175124,Strong Positive,Strong Positive,Weak Positive
+175143,Weak Positive,Weak Positive,Neutral
+175384,Weak Negative,Weak Negative,Neutral
+175658,Strong Positive,Weak Positive,Neutral
+175985,Neutral,Weak Negative,Neutral
+176014,Neutral,Weak Positive,Neutral
+176280,Neutral,Weak Positive,Neutral
+176769,Neutral,Weak Negative,Weak Negative
+176856,Neutral,Weak Positive,Neutral
+176909,Weak Negative,Weak Negative,Neutral
+177086,Strong Positive,Weak Negative,Neutral
+177122,Neutral,Weak Positive,Neutral
+177268,Neutral,Neutral,Neutral
+177419,Strong Positive,Strong Positive,Strong Positive
+177467,Neutral,Strong Positive,Weak Positive
+177475,Strong Positive,Weak Positive,Weak Positive
+177586,Strong Positive,Weak Negative,Neutral
+177650,Weak Positive,Weak Positive,Neutral
+177831,Weak Positive,Strong Positive,Weak Positive
+177839,Strong Positive,Weak Positive,Neutral
+177971,Weak Positive,Weak Negative,Neutral
+177985,Weak Negative,Strong Negative,Strong Negative
+178128,Weak Positive,Weak Negative,Weak Negative
+178213,Weak Positive,Weak Positive,Weak Positive
+178275,Strong Positive,Weak Positive,Neutral
+178441,Weak Negative,Weak Negative,Neutral
+178741,Weak Negative,Strong Positive,Strong Positive
+178755,Weak Negative,Neutral,Neutral
+178770,Strong Positive,Weak Negative,Neutral
+178861,Weak Negative,Weak Negative,Neutral
+179120,Neutral,Weak Positive,Neutral
+179137,Neutral,Weak Positive,Neutral
+179212,Strong Positive,Weak Positive,Neutral
+179410,Strong Positive,Weak Positive,Neutral
+179689,Weak Positive,Weak Positive,Neutral
+179701,Neutral,Weak Negative,Neutral
+179748,Weak Negative,Strong Negative,Strong Negative
+179886,Weak Negative,Weak Positive,Weak Positive
+179917,Weak Negative,Weak Negative,Weak Negative
+179938,Weak Negative,Weak Negative,Weak Negative
+179975,Weak Negative,Weak Negative,Neutral
+180006,Strong Positive,Weak Negative,Neutral
+180044,Neutral,Neutral,Neutral
+180055,Weak Negative,Neutral,Neutral
+180099,Weak Positive,Weak Positive,Strong Positive
+180335,Weak Negative,Weak Negative,Neutral
+180340,Strong Positive,Weak Positive,Neutral
+180691,Weak Positive,Weak Negative,Neutral
+180769,Weak Negative,Weak Positive,Neutral
+181008,Weak Positive,Weak Positive,Neutral
+181138,Weak Positive,Neutral,Neutral
+181225,Weak Negative,Weak Negative,Neutral
+181322,Strong Positive,Strong Positive,Neutral
+181507,Strong Negative,Strong Negative,Weak Negative
+181604,Strong Negative,Strong Negative,Weak Negative
+181647,Weak Positive,Weak Negative,Neutral
+181800,Strong Positive,Weak Negative,Neutral
+181910,Strong Positive,Weak Positive,Weak Positive
+181991,Weak Positive,Strong Positive,Neutral
+182023,Neutral,Neutral,Neutral
+182038,Neutral,Weak Negative,Neutral
+182049,Strong Positive,Weak Positive,Neutral
+182122,Strong Negative,Strong Negative,Neutral
+182201,Weak Negative,Weak Negative,Neutral
+182296,Weak Positive,Weak Negative,Neutral
+182614,Strong Positive,Weak Positive,Weak Positive
+182811,Weak Positive,Weak Positive,Neutral
+182825,Strong Positive,Weak Negative,Weak Positive
+183005,Weak Positive,Weak Positive,Strong Positive
+183098,Strong Positive,Strong Positive,Neutral
+183282,Weak Negative,Strong Negative,Strong Negative
+183441,Strong Positive,Strong Positive,Strong Positive
+183699,Strong Positive,Weak Positive,Neutral
+184085,Weak Positive,Weak Positive,Neutral
+184156,Neutral,Weak Positive,Neutral
+184250,Neutral,Neutral,Neutral
+184262,Strong Negative,Strong Negative,Strong Negative
+184860,Weak Positive,Weak Positive,Neutral
+184924,Strong Positive,Weak Positive,Neutral
+185204,Weak Positive,Weak Positive,Neutral
+185239,Neutral,Neutral,Neutral
+185373,Weak Negative,Weak Negative,Weak Negative
+185448,Weak Negative,Weak Negative,Neutral
+185789,Strong Negative,Strong Negative,Neutral
+185904,Weak Positive,Weak Positive,Neutral
+186458,Weak Negative,Weak Negative,Neutral
+186683,Neutral,Weak Positive,Neutral
+186751,Neutral,Weak Positive,Neutral
+186768,Weak Positive,Weak Negative,Neutral
+188134,Strong Positive,Weak Positive,Neutral
+188158,Weak Negative,Weak Negative,Neutral
+188298,Neutral,Neutral,Neutral
+188405,Weak Negative,Weak Negative,Strong Negative
+189178,Weak Negative,Weak Negative,Neutral
+189208,Weak Positive,Weak Negative,Neutral
+189376,Strong Positive,Neutral,Neutral
+189516,Weak Positive,Strong Positive,Neutral
+189649,Weak Positive,Neutral,Neutral
+189716,Strong Positive,Weak Positive,Weak Positive
+189757,Neutral,Neutral,Neutral
+189870,Weak Negative,Weak Negative,Neutral
+189886,Strong Negative,Strong Negative,Neutral
+190038,Weak Negative,Weak Negative,Neutral
+190157,Neutral,Strong Negative,Neutral
+190253,Weak Negative,Weak Negative,Neutral
+190430,Weak Negative,Neutral,Weak Positive
+190594,Weak Positive,Weak Positive,Neutral
+190686,Neutral,Neutral,Neutral
+190818,Neutral,Neutral,Neutral
+190846,Weak Positive,Weak Positive,Neutral
+191019,Strong Positive,Weak Negative,Neutral
+191159,Weak Positive,Weak Positive,Neutral
+191600,Strong Positive,Weak Positive,Weak Negative
+191731,Weak Positive,Weak Negative,Weak Negative
+191749,Neutral,Weak Positive,Weak Positive
+191779,Neutral,Weak Negative,Weak Negative
+191826,Weak Negative,Weak Negative,Neutral
+191850,Weak Positive,Weak Negative,Weak Negative
+191859,Neutral,Neutral,Weak Negative
+191966,Neutral,Weak Positive,Neutral
+192003,Weak Positive,Weak Positive,Neutral
+192073,Weak Negative,Weak Negative,Neutral
+192286,Weak Positive,Strong Negative,Strong Negative
+192527,Weak Positive,Neutral,Neutral
+192604,Strong Positive,Weak Positive,Weak Positive
+192775,Neutral,Neutral,Neutral
+192929,Weak Positive,Neutral,Neutral
+193013,Neutral,Weak Positive,Neutral
+193066,Strong Negative,Strong Negative,Strong Negative
+193201,Neutral,Weak Negative,Neutral
+193354,Weak Positive,Weak Negative,Neutral
+193444,Weak Positive,Weak Negative,Strong Negative
+193467,Strong Positive,Neutral,Weak Positive
+193520,Neutral,Neutral,Neutral
+193524,Strong Positive,Weak Positive,Weak Negative
+193748,Weak Negative,Weak Negative,Weak Positive
+193852,Neutral,Weak Positive,Weak Negative
+193854,Strong Positive,Strong Positive,Strong Positive
+194028,Weak Positive,Weak Positive,Neutral
+194061,Weak Negative,Strong Negative,Strong Negative
+194067,Neutral,Weak Positive,Neutral
+194129,Weak Negative,Strong Negative,Strong Negative
+194153,Weak Negative,Neutral,Neutral
+194416,Weak Negative,Weak Negative,Neutral
+194647,Strong Negative,Weak Negative,Weak Positive
+194664,Neutral,Weak Positive,Weak Negative
+194717,Neutral,Weak Positive,Neutral
+140009,Weak Negative,Weak Negative,Weak Positive
+140363,Neutral,Neutral,Neutral
+140622,Weak Positive,Weak Positive,Weak Positive
+140710,Neutral,Neutral,Weak Positive
+141162,Neutral,Weak Positive,Weak Positive
+141745,Weak Positive,Weak Positive,Weak Positive
+142160,Weak Positive,Neutral,Weak Positive
+142400,Weak Negative,Weak Negative,Weak Positive
+142459,Weak Positive,Weak Positive,Weak Positive
+142511,Weak Positive,Neutral,Weak Positive
+142522,Weak Positive,Weak Negative,Weak Negative
+142599,Strong Positive,Weak Positive,Weak Positive
+146672,Weak Negative,Weak Negative,Weak Positive
+146941,Strong Positive,Strong Positive,Weak Positive
+146957,Weak Negative,Neutral,Weak Positive
+147248,Neutral,Neutral,Weak Positive
+147361,Weak Positive,Weak Positive,Weak Positive
+147540,Weak Negative,Weak Negative,Neutral
+147950,Neutral,Neutral,Weak Positive
+148849,Strong Positive,Weak Positive,Weak Positive
+149363,Weak Positive,Neutral,Strong Positive
+149391,Weak Positive,Weak Positive,Weak Positive
+149545,Neutral,Weak Negative,Weak Positive
+149819,Weak Negative,Weak Negative,Neutral
+150153,Weak Positive,Neutral,Strong Positive
+150655,Weak Negative,Weak Negative,Neutral
+150933,Weak Positive,Neutral,Neutral
+151110,Strong Positive,Strong Positive,Weak Positive
+151359,Strong Positive,Neutral,Strong Positive
+151443,Weak Positive,Neutral,Weak Positive
+151829,Weak Positive,Weak Positive,Weak Positive
+151966,Weak Positive,Neutral,Weak Positive
+152660,Weak Positive,Weak Positive,Neutral
+152838,Strong Positive,Weak Positive,Weak Positive
+153219,Neutral,Neutral,Neutral
+197052,Strong Negative,Weak Negative,Weak Negative
+197097,Weak Negative,Weak Negative,Neutral
+198955,Neutral,Neutral,Neutral
+200154,Strong Positive,Weak Negative,Weak Positive
+200645,Weak Positive,Weak Positive,Weak Positive
+200879,Neutral,Weak Positive,Neutral
+201677,Strong Positive,Neutral,Weak Positive
+201933,Strong Negative,Strong Negative,Weak Negative
+202014,Strong Positive,Neutral,Weak Positive
+202680,Strong Positive,Neutral,Weak Positive
+202992,Weak Negative,Strong Negative,Strong Positive
+203238,Neutral,Neutral,Neutral
+203925,Weak Positive,Weak Negative,Weak Positive
+204298,Weak Negative,Neutral,Weak Negative
+204373,Weak Positive,Neutral,Weak Positive
+204399,Weak Positive,Neutral,Weak Positive
+207339,Weak Negative,Weak Negative,Weak Negative
+207889,Strong Positive,Weak Positive,Weak Positive
+209540,Weak Positive,Weak Positive,Weak Positive
+209598,Weak Positive,Weak Negative,Neutral
+211601,Neutral,Neutral,Neutral
+213854,Neutral,Weak Positive,Neutral
+214182,Weak Positive,Weak Negative,Weak Positive
+215839,Strong Negative,Strong Negative,Weak Negative
+216317,Neutral,Neutral,Neutral
+216626,Neutral,Neutral,Weak Negative
+217878,Strong Positive,Strong Positive,Weak Positive
+218252,Strong Positive,Neutral,Weak Positive
+219597,Strong Negative,Weak Negative,Weak Negative
+220001,Strong Positive,Weak Positive,Weak Positive
+221550,Neutral,Neutral,Weak Positive
+221551,Strong Positive,Strong Positive,Weak Positive
+221851,Neutral,Strong Positive,Strong Positive
+222083,Weak Negative,Weak Negative,Weak Negative
+223131,Weak Negative,Weak Negative,Weak Negative
+224488,Weak Negative,Weak Positive,Weak Positive
+224525,Strong Positive,Neutral,Weak Positive
+224535,Strong Positive,Neutral,Weak Positive
+224687,Weak Positive,Neutral,Weak Positive
+225088,Weak Negative,Weak Positive,Weak Positive
+225232,Neutral,Neutral,Weak Positive
+225363,Weak Positive,Weak Negative,Neutral
+225519,Weak Positive,Weak Positive,Weak Positive
+225643,Weak Positive,Neutral,Weak Positive
+225649,Weak Positive,Neutral,Weak Positive
+226299,Neutral,Neutral,Neutral
+226454,Weak Negative,Weak Negative,Weak Positive
+226498,Weak Positive,Neutral,Weak Positive
+226542,Neutral,Weak Negative,Neutral
+227253,Strong Positive,Neutral,Weak Positive
+227630,Weak Negative,Weak Negative,Weak Negative
+228043,Neutral,Weak Negative,Neutral
+228168,Weak Negative,Weak Negative,Weak Positive
+228277,Strong Positive,Weak Positive,Weak Positive
+228461,Neutral,Neutral,Neutral
+228575,Neutral,Weak Negative,Neutral
+228638,Strong Negative,Weak Negative,Weak Negative
+228751,Strong Positive,Weak Positive,Weak Positive
+228761,Strong Positive,Weak Positive,Weak Positive
+228830,Strong Positive,Weak Positive,Weak Positive
+229059,Weak Positive,Weak Negative,Weak Positive
+229108,Neutral,Neutral,Neutral
+229327,Weak Positive,Weak Positive,Weak Positive
+229430,Strong Negative,Weak Negative,Weak Negative
+229565,Strong Positive,Weak Positive,Strong Positive
+229638,Weak Positive,Neutral,Weak Positive
+229722,Strong Positive,Weak Positive,Weak Positive
+229783,Strong Positive,Weak Positive,Strong Positive
+229855,Weak Positive,Weak Positive,Weak Positive
+229895,Weak Negative,Weak Positive,Strong Positive
